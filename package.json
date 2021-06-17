@@ -1,0 +1,11 @@
+{
+  "name": "@bx-design/bx-fonts",
+  "version": "1.0.0",
+  "author": "BX Creative Studio",
+  "main": "fonts.css",
+  "repository": "git@github.com:bx-design/bx-fonts.git",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
