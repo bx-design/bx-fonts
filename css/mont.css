@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-Thin.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-Thin.woff2")
     format("woff2");
   font-weight: 100;
   font-style: normal;
@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-ThinItalic.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-ThinItalic.woff2")
     format("woff2");
   font-weight: 100;
   font-style: italic;
@@ -24,7 +24,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-ExtraLight.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-ExtraLight.woff2")
     format("woff2");
   font-weight: 200;
   font-style: normal;
@@ -36,7 +36,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-ExtraLightItalic.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-ExtraLightItalic.woff2")
     format("woff2");
   font-weight: 200;
   font-style: italic;
@@ -48,7 +48,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-Light.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-Light.woff2")
     format("woff2");
   font-weight: 300;
   font-style: normal;
@@ -60,7 +60,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-LightItalic.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-LightItalic.woff2")
     format("woff2");
   font-weight: 300;
   font-style: italic;
@@ -72,7 +72,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-Regular.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-Regular.woff2")
     format("woff2");
   font-weight: 400;
   font-style: normal;
@@ -84,7 +84,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-RegularItalic.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-RegularItalic.woff2")
     format("woff2");
   font-weight: normal;
   font-style: italic;
@@ -96,7 +96,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-SemiBold.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-SemiBold.woff2")
     format("woff2");
   font-weight: 600;
   font-style: normal;
@@ -108,7 +108,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-SemiBoldItalic.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-SemiBoldItalic.woff2")
     format("woff2");
   font-weight: 600;
   font-style: italic;
@@ -120,7 +120,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-Bold.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-Bold.woff2")
     format("woff2");
   font-weight: 700;
   font-style: normal;
@@ -132,7 +132,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-BoldItalic.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-BoldItalic.woff2")
     format("woff2");
   font-weight: 700;
   font-style: italic;
@@ -144,7 +144,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-Heavy.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-Heavy.woff2")
     format("woff2");
   font-weight: 800;
   font-style: normal;
@@ -156,7 +156,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-HeavyItalic.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-HeavyItalic.woff2")
     format("woff2");
   font-weight: 800;
   font-style: italic;
@@ -168,7 +168,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-Black.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-Black.woff2")
     format("woff2");
   font-weight: 900;
   font-style: normal;
@@ -180,7 +180,7 @@
 
 @font-face {
   font-family: "Mont";
-  src: url("https://github.com/bx-design/fonts/blob/main/mont/Mont-BlackItalic.woff2")
+  src: url("https://github.com/bx-design/fonts/main/mont/Mont-BlackItalic.woff2")
     format("woff2");
   font-weight: 900;
   font-style: italic;
